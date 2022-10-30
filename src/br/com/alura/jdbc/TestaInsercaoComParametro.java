@@ -16,7 +16,7 @@ public class TestaInsercaoComParametro {
 			connection.setAutoCommit(false);
 
 			try (PreparedStatement stm = 
-					connection.prepareStatement("INSERT INTO PRODUTO (nome, descricacao) VALUES (?, ?)", Statement.RETURN_GENERATED_KEYS);
+					connection.prepareStatement("INSERT INTO PRODUTO (nome, descricao) VALUES (?, ?)", Statement.RETURN_GENERATED_KEYS);
 					){
 				adicionarVariavel("SmartTV", "45 polegadas", stm);
 				adicionarVariavel("Radio", "Radio de bateria", stm);
@@ -30,9 +30,9 @@ public class TestaInsercaoComParametro {
 		}
 	}
 
-	private static void adicionarVariavel(String nome, String descricacao, PreparedStatement stm) throws SQLException {
+	private static void adicionarVariavel(String nome, String descricao, PreparedStatement stm) throws SQLException {
 		stm.setString(1, nome);
-		stm.setString(2, descricacao);
+		stm.setString(2, descricao);
 
 		// if(nome.equals("Radio")) {
 		//	throw new RuntimeException("N�o foi poss�vel adicionar o produto");

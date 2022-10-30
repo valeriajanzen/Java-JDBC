@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa938441-5b63-42d1-845c-3be7b1bfea5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/c3p0_0_9_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mchange_commons_java_0_2_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestaPoolConexoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/jdbc/ConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/PersistenciaProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/jdbc/TestaInsercaoComProduto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loja-Virtual-Repository.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loja-Virtual-Repository.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConnectionFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestaInsercao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaInsercao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestaInsercaoComParametro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestaListagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaListagem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestaRemocao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaRemocao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TextaConexao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TextaConexao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/jdbc/TestaInsercaoComParametro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/jdbc/TestaInsercaoComParametro.java" afterDir="false" />
     </list>
     <list id="f10a2f0c-2688-4acb-9605-f324a7e03e9d" name="AdicionarVariavel" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,17 +38,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/janze/OneDrive/Documentos/Jars/c3p0-0.9.5.4.jar",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.43103448"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/janze/OneDrive/Documentos/Jars/c3p0-0.9.5.4.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.43103448&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\janze\IdeaProjects\Loja-Virtual-Repository" />
