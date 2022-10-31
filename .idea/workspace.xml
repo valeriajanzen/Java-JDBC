@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa938441-5b63-42d1-845c-3be7b1bfea5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/PersistenciaProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/jdbc/TestaInsercaoComProduto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/jdbc/TestaInsercaoComParametro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/jdbc/TestaInsercaoComParametro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/PersistenciaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ProdutoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/jdbc/TestaInsercaoComProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/jdbc/TestaInsercaoComProduto.java" afterDir="false" />
     </list>
     <list id="f10a2f0c-2688-4acb-9605-f324a7e03e9d" name="AdicionarVariavel" comment="" />
     <option name="SHOW_DIALOG" value="false" />
