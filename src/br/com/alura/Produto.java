@@ -25,7 +25,7 @@ public class Produto {
     }
 
     public String toString() {
-        return String.format("Produto criado foi: %d, %s,%s",
+        return String.format("Produto criado é: %d, %s,%s",
                 this.id, this.nome, this.descricao);
     }
 }
